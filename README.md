@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on BRQ Digital !!!
+- 🔭 I’m currently working on BRQ Digital !!!!
 - 🌱 I’m currently learning JAVA,PYTHON,GITHUB,AWS
 - 👯 I’m looking to collaborate on Univesp
 - 🤔 I’m looking for help with Tecnology
