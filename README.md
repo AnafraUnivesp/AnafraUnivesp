@@ -11,7 +11,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Univesp**
 - 🤔 I’m looking for help with **Tecnology**
 - 💬 Ask me about Front, **Tech Writer and Backend**
-- 📫 How to reach me: **analaura.francisco@gmail.com** | **[in/analauramartins](https://www.linkedin.com/in/analauramartins/)
+- 📫 How to reach me: **analaura.francisco@gmail.com** | **[in/analauramartins](https://www.linkedin.com/in/analauramartins/) |**[Github analaurafra](https://github.com/analaurafra)**
+
+
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnafraUnivesp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnafraUnivesp&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+<center> <iframe src="https://giphy.com/embed/PxSFAnuubLkSA" width="480" height="379" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/with-computers-fascination-PxSFAnuubLkSA">via GIPHY</a></p> </center>
