@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **BRQ Digital** | [Embaixadora Dio Expert](https://linktr.ee/analaura_fra)
 - 🌱 I’m currently learning **JAVA,PYTHON,GITHUB,AWS**
 - 👯 I’m looking to collaborate on **Univesp**
-- 🤔 I’m looking for help with **Tecnology**
+- 🤔 I’m looking for help with **Technology**
 - 💬 Ask me about Front, **Tech Writer and Backend**
 - 📫 How to reach me: **analaura.francisco@gmail.com** | **[in/analauramartins](https://www.linkedin.com/in/analauramartins/) |**[Github analaurafra](https://github.com/analaurafra)**
 
